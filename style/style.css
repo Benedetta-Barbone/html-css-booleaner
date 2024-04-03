@@ -40,3 +40,19 @@
 .descr-foto{
     margin: 0;
 }
+
+table{
+    table-layout: fixed;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.intestazione-tab{
+    background-color: rgb(15, 128, 172);
+    color: white;
+}
+
+.dispari{
+    background-color: lightblue;
+}
